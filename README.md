@@ -36,10 +36,15 @@ The program processes the JSON response from the API, extracting key metadata li
 
 ## Example Output
 An example output might look like this in the Excel file:
-| Column 1          | Column 2     | Column 3              | Column 4     | Column 5          |
-|-------------------|--------------|-----------------------|--------------|-------------------|
-| Row 1, Column 1   | Row 1, Column 2 | Row 1, Column 3     | Row 1, Column 4 | Row 1, Column 5   |
-| Row 2, Column 1   | Row 2, Column 2 | Row 2, Column 3     | Row 2, Column 4 | Row 2, Column 5   |
+## Example Output
+
+An example output might look like this in the Excel file:
+
+| Title                                    | Authors                  | Link                              | Abstract                | Publication Year |
+|------------------------------------------|--------------------------|-----------------------------------|-------------------------|------------------|
+| Machine Learning in Higher Education     | John Doe, Jane Smith      | [Link](https://doi.org/xxxx)      | Study on ML usage       | 2020             |
+| Career Choice Models with Machine Learning| Alice Johnson, Mark Evans | [Link](https://doi.org/yyyy)      | Analysis of career choices| 2021           |
+
 
 ## Contribution
 If you'd like to contribute to this project, feel free to submit a pull request. All contributions are welcome!
